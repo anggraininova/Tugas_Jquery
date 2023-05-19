@@ -9,7 +9,7 @@
 <body>
 
 <div class="container">
-    <form id="form" class="form" autocomplete="off">
+    <form action="proses_tambah.php" id="form" class="form" autocomplete="off">
         <h2>Form Validation Customer</h2>
         <div class="form-control">
             <label for="first_name">First_Name</label>
