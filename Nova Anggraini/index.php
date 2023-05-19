@@ -22,9 +22,7 @@
                     <div class="col-md-10"><br>
                         <a href="tambah.php" data-toggle="modal" class="btn btn-primary"><span class="glyphicon glyphicon-plus"></span> Add Customer</a>
                     </div>
-                    <div class="col-md-2 pull-left">
-
-                    </div>
+                    <div class="col-md-2 pull-left"></div>
                 </div>
             </div><br>
 <div class="container">
